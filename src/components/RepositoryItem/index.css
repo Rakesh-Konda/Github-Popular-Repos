@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.h1 {
+  color: red;
+  font-size: 15px;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+}
+.ll {
+  margin: 20px;
+}
+.j {
+  background-color: white;
+  height: 100vh;
+  width: 600px;
+}
+.c {
+  background-color: #f8f8ff;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.star {
+  color: orange;
+  margin-top: 20px;
+  margin-right: 3px;
+}
+.jar {
+  display: flex;
+}
+.fork {
+  color: blue;
+  margin-top: 20px;
+  margin-right: 3px;
+}
+.issue {
+  color: orange;
+  margin-top: 20px;
+  margin-right: 3px;
+}
+.i {
+  width: 20px;
+  height: 20px;
+  margin-top: 18px;
+}

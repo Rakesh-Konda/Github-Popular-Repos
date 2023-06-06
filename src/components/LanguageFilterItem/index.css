@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.ul {
+  list-style-type: none;
+  display: flex;
+}
+.but {
+  border-radius: 15px;
+  margin: 13px;
+  border: 0px solid transparent;
+  background-color: white;
+  font-size: 20px;
+}
